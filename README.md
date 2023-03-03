@@ -1,4 +1,4 @@
-<img src="Assets/mlkqsjmdsfs_GitHub_banner_explorertraveler_rat_game_dev_gaming__650e1d1c-a8d7-4c6b-9b90-efd5b149c469.png" alt="Banner">
+<img src="Assets/mlkqsjmdsfs_GitHub_banner_explorertraveler_rat_game_dev_gaming__650e1d1c-a8d7-4c6b-9b90-efd5b149c469.png" alt="Banner" style="object-fit: contain;">
 
 <p align="center">
 
@@ -27,7 +27,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ilian-lucion/">
-        <img src="Assets\icons8-linkedin-2.gif" alt="Linkdin" style="vertical-align:top; margin:4px; border-radius:5px">
+        <img src="Assets\Linkedin.svg" alt="Linkdin" style="border-radius:5px; height: 60px;">
     </a>
 </p>
 
@@ -58,7 +58,8 @@
             <p align="center">
                 <img src="Assets\Figma.svg" alt="Figma" style="border-radius:5px; height:60px; margin-top:8px">
                 <img src="Assets\Blender.svg" alt="Blender" style="height:60px">
-                <img src="Assets\Unity.svg" alt="Unity" style="height:60px; background-color:white; border-radius:5px">
+                <img src="Assets\Unity.svg" alt="Unity" style="height:60px;
+                background-color:white; border-radius:5px">
                 <img src="Assets\Godot.svg" alt="Godot engine" style="height:60px">
                 <img src="Assets\Git.svg" alt="Git" style="height:60px">
             </p>
