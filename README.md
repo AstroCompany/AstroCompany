@@ -68,5 +68,3 @@
 </table>
 
 ---
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeratPablo&repo=othello)](https://github.com/LeratPablo/Othello)
