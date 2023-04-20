@@ -58,8 +58,6 @@
             <p align="center">
                 <img src="Assets\Figma.svg" alt="Figma" style="border-radius:5px; height:60px; margin-top:8px">
                 <img src="Assets\Blender.svg" alt="Blender" style="height:60px">
-                <img src="Assets\Unity.svg" alt="Unity" style="height:60px;
-                background-color:white; border-radius:5px">
                 <img src="Assets\Godot.svg" alt="Godot engine" style="height:60px">
                 <img src="Assets\Git.svg" alt="Git" style="height:60px">
             </p>
